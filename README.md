@@ -96,8 +96,6 @@
 - Node.js (version 16 or higher)
 - npm or yarn package manager
 
-Here you go — rewritten cleanly and clearly for your `README.md`, with your note about the API included properly:
-
 ---
 
 ### **Installation & Setup**
