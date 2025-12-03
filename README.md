@@ -202,6 +202,19 @@ If you want, I can also style this section more professionally or match your old
 
 ---
 
+## 📘 Project Report
+
+For detailed documentation of the system architecture, features, workflows, and full technical explanations, you can view the complete project report below:
+
+<div align="center">
+
+### 👉 [**View Full Project Report (PDF)**](https://github.com/CodeWithTanim/Ai-Image-Generator/blob/main/Project_Report_SaaS_App%E2%80%93AI_Image_Generator.pdf)
+
+</div>
+
+---
+
+
 ## 🤝 Contributing
 
 We welcome contributions from the community! Here's how you can help:
