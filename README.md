@@ -35,6 +35,10 @@
 - **🎨 Professional UI** - Built with shadcn-ui for exceptional user experience
 
 ---
+<p align="center">
+  <img src="https://github.com/CodeWithTanim/AI-Image-Generator/blob/main/public/banner2.png" alt="AI Image Generator Banner" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
+</p>
+---
 
 ## 🚀 Features
 
