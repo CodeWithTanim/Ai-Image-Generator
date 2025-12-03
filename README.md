@@ -92,32 +92,61 @@
 - Node.js (version 16 or higher)
 - npm or yarn package manager
 
-### Installation & Setup
+Here you go — rewritten cleanly and clearly for your `README.md`, with your note about the API included properly:
 
-1. **Clone the repository:**
+---
+
+### **Installation & Setup**
+
+1. **Clone the repository**
+
    ```bash
-   git clone https://github.com/CodeWithTanim/AI-Image-Generator.git
-   cd AI-Image-Generator
+   git clone https://github.com/CodeWithTanim/Ai-Image-Generator.git
+   cd Ai-Image-Generator
    ```
 
-2. **Install dependencies:**
+2. **Install all dependencies**
+
    ```bash
    npm install
    ```
 
-3. **Start the development server:**
+3. **Start the development server**
+
    ```bash
    npm run dev
    ```
 
-4. **Open your browser:**
-   Navigate to [http://localhost:8080](http://localhost:8080) to view the application.
+4. **Open in browser**
+   Go to: **[http://localhost:8080](http://localhost:8080)**
 
-### Available Scripts
+---
 
-- `npm run dev` - Starts the development server with auto-reloading
-- `npm run build` - Builds the app for production
-- `npm run preview` - Previews the production build locally
+### **Available Scripts**
+
+* **`npm run dev`** – Run the development server with auto-reload
+* **`npm run build`** – Create a production build
+* **`npm run preview`** – Preview the production build locally
+
+---
+
+### **API Integration (Important)**
+
+This project does **not include an image-generation API key by default**.
+
+If someone wants to use image generation, they must connect their **own API** at the following file and line:
+
+```
+supabase/functions/generate-image/index.ts
+(Line 55)
+```
+
+Add your preferred AI image generation API inside that function before using the feature.
+
+---
+
+If you want, I can also style this section more professionally or match your old README style.
+
 
 
 ## 🎯 Key Features Deep Dive
