@@ -52,7 +52,7 @@ serve(async (req) => {
     }
 
     // Call Lovable AI gateway for image generation
-    const response = await fetch("#", {             # Replace "#" with the actual Lovable AI endpoint URL. Use your own API. My API is: https://ai.gateway.lovable.dev/v1/chat/completions
+    const response = await fetch("#", {             // Replace "#" with the actual Lovable AI endpoint URL. Use your own API. My API is: https://ai.gateway.lovable.dev/v1/chat/completions
       method: "POST",
       headers: {
         Authorization: `Bearer ${LOVABLE_API_KEY}`,
