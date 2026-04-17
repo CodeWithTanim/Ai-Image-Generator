@@ -14,7 +14,7 @@ const Pricing = () => {
       name: "Silver",
       price: "$5",
       credits: 200,
-      paymentLink: "https://rupantorpay.com/paymentlink/eyJ1aWQiOjMwMDgsImJyYW5kX2lkIjoiMTg0MyIsImN1c3RvbWVyX2Ftb3VudCI6IjY0NSJ9",
+      paymentLink: "https://payment.codewithtanim.works/payment-link/436011511700309460577000885",
       features: [
         "200 image generations per month",
         "High quality images",
@@ -23,14 +23,10 @@ const Pricing = () => {
       ],
     },
     {
-      
-
-
-
-
-      
+      name: "Gold",
+      price: "$50",
       credits: 2500,
-      paymentLink: "https://rupantorpay.com/paymentlink/eyJ1aWQiOjMwMDgsImJyYW5kX2lkIjoiMTg0MyIsImN1c3RvbWVyX2Ftb3VudCI6IjY0NTAifQ",
+      paymentLink: "https://payment.codewithtanim.works/payment-link/676443862008266338915750745",
       features: [
         "2500 image generations per month",
         "High quality images",
@@ -44,7 +40,7 @@ const Pricing = () => {
       name: "Platinum",
       price: "$100",
       credits: 5500,
-      paymentLink: "https://rupantorpay.com/paymentlink/eyJ1aWQiOjMwMDgsImJyYW5kX2lkIjoiMTg0MyIsImN1c3RvbWVyX2Ftb3VudCI6IjEyOTAwIn0",
+      paymentLink: "https://payment.codewithtanim.works/payment-link/432148959764915670143357018",
       features: [
         "5500 image generations per month",
         "High quality images",
