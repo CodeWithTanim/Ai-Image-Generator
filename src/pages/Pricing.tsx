@@ -14,7 +14,7 @@ const Pricing = () => {
       name: "Silver",
       price: "$5",
       credits: 200,
-      paymentLink: "https://payment.codewithtanim.works/payment-link/436011511700309460577000885",
+      paymentLink: "https://payment.codewithtanim.works/payment-link/098039965840509707064148702",
       features: [
         "200 image generations per month",
         "High quality images",
@@ -26,7 +26,7 @@ const Pricing = () => {
       name: "Gold",
       price: "$50",
       credits: 2500,
-      paymentLink: "https://payment.codewithtanim.works/payment-link/676443862008266338915750745",
+      paymentLink: "https://payment.codewithtanim.works/payment-link/248566741499112748182246210",
       features: [
         "2500 image generations per month",
         "High quality images",
@@ -40,7 +40,7 @@ const Pricing = () => {
       name: "Platinum",
       price: "$100",
       credits: 5500,
-      paymentLink: "https://payment.codewithtanim.works/payment-link/432148959764915670143357018",
+      paymentLink: "https://payment.codewithtanim.works/payment-link/866460879226716956556950559",
       features: [
         "5500 image generations per month",
         "High quality images",
